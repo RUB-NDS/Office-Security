@@ -1,0 +1,3 @@
+This directory contains a test suite of malicious OOXML
+and ODF documents files which can be used by developers
+in order to test their software for vulnerabilties.
